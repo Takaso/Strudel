@@ -1,0 +1,6 @@
+aiosonic
+asyncio
+chromedriver-binary
+selenium
+chromedriver-binary-auto
+discord.py==1.7.3
